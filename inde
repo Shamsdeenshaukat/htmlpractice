@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <title>  My first code   </title>
+    <head>
+       
+        <body>
+            <!----heading----->
+<h1>Hello World</h1>
+
+<h1>i am header 1</h1>
+<h2>i am header 2</h2>
+<h3>i am header 3</h3>
+<h4>i am header 4</h4>
+<h5>i am header 5</h5>
+<h6>i am header 6</h6><br>
+<p>it will be nice to start your code here.</p>
+<p>I will master web programing using <code>HTML</code> for my structure,<code> CSS </code>for styling and <code> js </code>for instructions</p><br><br>
+<p> I will master web programing using
+    <abbr title="Hypertext Markup Language">HTML</abbr> for structure, <abbr title="Cascading Style Sheet">CSS</abbr> for styling and <abbr title="Java Script">J.S</abbr> for instruction
+</p>
+<br>
+<p> I will master web programing using
+    <mark>HTML</mark> for structure, <mark>CSS</mark> for styling and <mark>J.S</mark> for instruction
+</p>
+<h3>Important web technologies</h3>
+<list>
+    <ol type="I">
+ <li>Hypertext Markup LAnguage</li> 
+ <li>Cascading Style Sheet</li>
+ <li>JavaScript</li>
+</ol>
+<ul>
+    <li>Hypertext Markup LAnguage</li> 
+    <li>Cascading Style Sheet</li>
+    <li>JavaScript</li>
+</ul>
+</list>
+<hr width="100%">
+<table>
+    <thead>
+        <tr>
+        <th> NAME </th>
+        <th> CLASS </th>
+        <th> AGE </th>
+        <th> SKILLS </th>
+    </tr>
+    </thead>
+    <tbody> 
+    <tr>
+        <td> Orison</td>
+        <td> 2 </td>
+        <td> 14 </td>
+        <td> Learner </td>
+    </tr>
+    <tr>
+        <td> Mine </td>
+        <td> 2 </td>
+        <td> 10 </td>
+        <td> Unskiled </td>
+    </tr>
+    <tr>
+        <td> Ok </td>
+        <td> 2 </td>
+        <td> 10 </td>
+        <td> Trainner </td>
+    </tr><tr>
+        <td> Later </td>
+        <td> 2 </td>
+        <td> 10 </td>
+        <td> Skilled </td>
+    </tr>
+    </tbody>
+</table>
+        </body>
+    </head>
+    </html>
